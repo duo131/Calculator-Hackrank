@@ -6,7 +6,7 @@
 #include <stack>
 #include <algorithm>
 #include <vector>
-#include <map>
+#include <map> //using unordered_map would be better cus order does not matter here
 #include<iostream>
 using namespace std;
 map<string, int> ope_dic;//store operator wight 
